@@ -1,0 +1,13 @@
+# Autodesk Inventor: locks, temporary files, and local backups
+*.lck
+*.lock
+*.tmp
+*.bak
+*.old
+~$*
+
+# Logs and operating-system metadata
+*.log
+Thumbs.db
+Desktop.ini
+.DS_Store
